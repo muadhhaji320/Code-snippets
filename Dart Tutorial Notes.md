@@ -5,7 +5,7 @@
 ```dart
 EXERCISE(1)
 [] print string "Hello, World!"
------------
+-------------------------------
 void main() {
 	print('Hello World!');
 }
