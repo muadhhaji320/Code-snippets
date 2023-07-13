@@ -4,7 +4,7 @@ void main() {
   print('Hello, world!');
 }
 
-'''dart
+```dart
 void main() {
 	print('Hello World!');
 }
