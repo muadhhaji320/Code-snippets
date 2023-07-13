@@ -40,6 +40,27 @@ print(lst);
 
 return 0; }
 ```
+```dart
+EXERCISE(4)
+[] program that Returns true if n is even and Returns false if n is odd.
+------------------------------------------------------------------------
+bool checkEven(n){
+/// Returns true
+/// if n is even
+if(n%2==0)
 
+	return true;
+/// Returns false if n is odd
+else
+
+	return false; }
+
+int main()
+{
+int n = 43;
+print(checkEven(n));
+return 0;
+}
+```
 
 
