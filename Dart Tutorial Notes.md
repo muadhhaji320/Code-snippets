@@ -7,7 +7,8 @@ EXERCISE(1)
 void main() {
 	print('Hello World!');
 }
-
+```
+```dart
 EXERCISE(2)
 ------------
 [] print the area of a circle of radius = 4.
@@ -20,4 +21,5 @@ print(area);
 
 return 0;
 }
+```
 
