@@ -46,6 +46,7 @@ return 0; }
 EXERCISE(1)
 []A Simple HTML Document
 ------------------------
+<h1 style="background-color: #f0f0f0;">My Heading</h1>
 <!DOCTYPE html>
 <html>
 <head>
