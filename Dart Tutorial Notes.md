@@ -24,4 +24,23 @@ print(area);
 return 0;
 }
 ```
+```dart
+EXERCISE(3)
+--------------
+[] print the whole list[1, 2, 3] of integers at once.
+int main()
+{
+var lst = [1, 2, 3];
+
+/*
+It prints
+the whole list
+at once
+*/
+print(lst);
+
+return 0; }
+```
+
+
 
