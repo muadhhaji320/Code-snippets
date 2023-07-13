@@ -1,7 +1,5 @@
 # 100 EXERCISES of DART LANGUAGE
 ### BASICS OF DART
-<h1 style="background-color👱‍♂️;">BASICS OF DART</h1>
-
 
 ```dart
 EXERCISE(1)
@@ -41,24 +39,6 @@ at once
 print(lst);
 
 return 0; }
-```
-
-```html
-EXERCISE(1)
-[]A Simple HTML Document
-------------------------
-<!DOCTYPE html>
-<html>
-<head>
-<title>Page Title</title>
-</head>
-<body>
-
-<h1>This is a Heading</h1>
-<p>This is a paragraph.</p>
-
-</body>
-</html>
 ```
 
 
