@@ -34,4 +34,17 @@ HTML Headings
 </body>
 </html>
 ```
+```html
+HTML Paragraphs
+---------------
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>This is a paragraph.</p>
+<p>This is another paragraph.</p>
+
+</body>
+</html>
+```
 
