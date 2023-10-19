@@ -46,3 +46,13 @@ Container(
     child: Text("Hello! I am in the container widget", style: TextStyle(fontSize: 25)),  
 ) 
 ```
+```dart
+height and width: Properties of Container widget
+------------------------------------------------
+Container(  
+    width: 200.0,  
+    height: 100.0,  
+    color: Colors.green,   
+    child: Text("Hello! I am in the container widget", style: TextStyle(fontSize: 25)),  
+)  
+```
