@@ -31,3 +31,18 @@ void main() => runApp(MaterialApp(
   ),
 ));
 ```
+```dart
+child: Properties of Container widget
+-------------------------------------
+Container(  
+    child: Text("Hello! I am in the container widget", style: TextStyle(fontSize: 25)),  
+)  
+```
+```dart
+color: Properties of Container widget
+-------------------------------------
+Container(  
+    color: Colors.green,   
+    child: Text("Hello! I am in the container widget", style: TextStyle(fontSize: 25)),  
+) 
+```
