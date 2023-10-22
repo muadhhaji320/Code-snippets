@@ -2,12 +2,14 @@
 
 ```dart
 [] hello world
+--------------
 main() { 
 	print("Welcome to GeeksForGeeks"); 
 } 
 ```
 ```dart
 [] Dart - Comments
+------------------
 int main() 
 { 
 double area = 3.14 * 4 * 4; 
@@ -20,6 +22,7 @@ return 0;
 ```
 ```dart
 [] Dart Multi-Line Comment:
+---------------------------
 int main() 
 { 
 var lst = [1, 2, 3]; 
@@ -36,6 +39,7 @@ return 0; }
 ```
 ```dart
 [] Dart Multi-Line Comment: example 2
+-------------------------------------
 int main() 
 { 
 var lst = [1, 2, 3]; 
@@ -52,6 +56,7 @@ return 0; }
 ```
 ```dart
 [] Dart Documentation Comment:
+------------------------------
 bool checkEven(n){ 
 /// Returns true
 /// if n is even 
@@ -72,6 +77,7 @@ return 0;
 ```
 ```dart
 [] Dart - Variables
+--------------------
 void main()
 {
 	// Declaring and initialising a variable
@@ -96,6 +102,7 @@ void main()
 ```
 ```dart
 [] Dynamic type variable in Dart:
+---------------------------------
 void main()
 {
 	// Assigning value to geek variable
@@ -111,6 +118,7 @@ void main()
 ```
 ```dart
 [] Using final keywords in a Dart program.
+------------------------------------------
 void main() {
 // Assigning value to geek1 variable without datatype
 final geek1 = "Geeks For Geeks";
@@ -125,6 +133,7 @@ print(geek2);
 ```
 ```dart
 [] Using const keywords in a Dart program.
+------------------------------------------
 void main() {
 // Assigning value to geek1 variable without datatype
 const geek1 = "Geeks For Geeks";
@@ -136,10 +145,4 @@ const geek2 = "Geeks For Geeks Again!!";
 // Printing variable geek2
 print(geek2);
 }
-```
-```dart
-[] 
-```
-```dart
-[] Operators in Dart
 ```
