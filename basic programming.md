@@ -1,5 +1,10 @@
 # dart programming
 
+- ### foundation
+  - Hello world   
+  - Dart - Comments
+  - Dart - Variables 
+
 ```dart
 [] hello world
 --------------
