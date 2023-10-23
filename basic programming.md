@@ -40,24 +40,6 @@ at once
 print(lst); 
 
 return 0; }
-
-```
-```dart
-[] Dart Multi-Line Comment: example 2
--------------------------------------
-int main() 
-{ 
-var lst = [1, 2, 3]; 
-
-/* 
-It prints 
-the whole list 
-at once 
-*/
-print(lst); 
-
-return 0; }
-
 ```
 ```dart
 [] Dart Documentation Comment:
