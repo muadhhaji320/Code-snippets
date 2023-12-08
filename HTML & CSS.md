@@ -231,3 +231,195 @@ Single or Double Quotes?
 </body>
 </html>
 ```
+```html
+CSS font-size property
+----------------------
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1 style="font-size:60px;">Heading 1</h1>
+
+<p>You can change the size of a heading with the style attribute, using the font-size property.</p>
+
+</body>
+</html>
+```
+```html
+HTML Horizontal Rules
+---------------------
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>This is heading 1</h1>
+<p>This is some text.</p>
+<hr>
+
+<h2>This is heading 2</h2>
+<p>This is some other text.</p>
+<hr>
+
+<h2>This is heading 2</h2>
+<p>This is some other text.</p>
+
+</body>
+</html>
+```
+```html
+HTML <pre> Element
+------------------
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>The pre tag preserves both spaces and line breaks:</p>
+
+<pre>
+   My Bonnie lies over the ocean.
+
+   My Bonnie lies over the sea.
+
+   My Bonnie lies over the ocean.
+   
+   Oh, bring back my Bonnie to me.
+</pre>
+
+</body>
+</html>
+```
+```html
+HTML Styles
+------------
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>I am normal</p>
+<p style="color:red;">I am red</p>
+<p style="color:blue;">I am blue</p>
+<p style="font-size:50px;">I am big</p>
+
+</body>
+</html>
+```
+```html
+Set the background color for a page to powderblue:
+--------------------------------------------------
+<!DOCTYPE html>
+<html>
+<body style="background-color:powderblue;">
+
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
+
+</body>
+</html>
+```
+```html
+Set background color for two different elements:
+------------------------------------------------
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1 style="background-color:powderblue;">This is a heading</h1>
+<p style="background-color:tomato;">This is a paragraph.</p>
+
+</body>
+</html>
+```
+```html
+Set Text Color for two different elements
+------------------------------------------
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1 style="color:blue;">This is a heading</h1>
+<p style="color:red;">This is a paragraph.</p>
+
+</body>
+</html>
+```
+```html
+Fonts
+--------
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1 style="font-family:verdana;">This is a heading</h1>
+<p style="font-family:courier;">This is a paragraph.</p>
+
+</body>
+</html>
+```
+```html
+Text Size
+-----------
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1 style="font-size:300%;">This is a heading</h1>
+<p style="font-size:160%;">This is a paragraph.</p>
+
+</body>
+</html>
+```
+```html
+Text Alignment
+---------------
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1 style="text-align:center;">Centered Heading</h1>
+<p style="text-align:center;">Centered paragraph.</p>
+
+</body>
+</html>
+```
+```html
+HTML Text Formatting
+--------------------
+<!DOCTYPE html>
+<html>
+<body>
+
+<p><b>This text is bold</b></p>
+<p><i>This text is italic</i></p>
+<p>This is<sub> subscript</sub> and <sup>superscript</sup></p>
+
+</body>
+</html>
+```
+```html
+HTML <b> for bold text.
+------------------------
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>This text is normal.</p>
+
+<p><b>This text is bold.</b></p>
+
+</body>
+</html>
+```
+```html
+HTML <strong> element
+----------------------
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>This text is normal.</p>
+
+<p><strong>This text is important!</strong></p>
+
+</body>
+</html>
+```
