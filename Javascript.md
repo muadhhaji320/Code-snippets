@@ -55,3 +55,65 @@ if (cashInWallet > 5) {
   order = “I’ll just have a glass of water”;
 }
 ```
+```javascript
+[] The if statement executes its code block only if a conditional test is true.
+-------------------------------------------------------------------------------
+if (scoops < 3) {
+   alert("Ice cream is running low!");
+}
+```
+```javascript
+[] We can have one test, and then another test with if/else if
+--------------------------------------------------------------
+if (scoops >= 5) {
+   alert("Eat faster, the ice cream is going to melt!");
+} else if (scoops < 3) {
+   alert("Ice cream is running low!");
+}
+```
+```javascript
+[] when you need t o make LOTS of decisions
+-------------------------------------------
+if (scoops >= 5) {
+alert("Eat faster, the ice cream is going to melt!");
+} else if (scoops == 3) {
+alert("Ice cream is running low!");
+} else if (scoops == 2) {
+alert("Going once!");
+} else if (scoops == 1) {
+alert("Going twice!");
+} else if (scoops == 0) {
+alert("Gone!");
+} else {
+alert("Still lots of ice cream left, come and get it.");
+}
+```
+```javascript
+[] Happy Birthday program
+-------------------------
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Happy Birthday</title>
+  </head>
+  <body>
+  <script>
+	var name = "Joe";
+	var i = 0;
+	while (i < 2) {
+		document.write("Happy Birthday to you.<br>");
+		i = i + 1;
+	}
+	document.write("Happy Birthday dear " + name + ",<br>");
+	document.write("Happy Birthday to you.<br>");
+  </script>
+</body>
+</html>
+```
+```javascript
+[] A closer look at console.log
+---------------------------------
+var message = "Howdy" + " " + "partner";
+console.log(message);
+```
