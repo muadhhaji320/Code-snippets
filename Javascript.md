@@ -2,7 +2,8 @@
 ### BASICS OF Javascript
 ```Javascript
 EXERCISE(1)
-[] How to get JavaScript into your page
+[] count five seconds of time? Hint:
+1000 milliseconds = 1 second.
 -------------------------------
 <!doctype html>
 <html lang="en">
