@@ -198,3 +198,50 @@ while (count > 0) {
    </body>
 </html>
 ```
+```html
+[] howdy
+-----------
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Howdy</title>
+  </head>
+  <body>
+  <script>
+message = "Howdy" + " " + "partner";
+console.log(message);
+  </script>
+  </body>
+</html>
+```
+```html
+[] icecream
+------------
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Icecream!</title>
+  </head>
+  <body>
+  </body>
+  <script src="code.js"></script>
+<!--
+  <script>
+	scoops = 5;
+	while (scoops > 0) {
+		document.write("Another scoop!<br>");
+		if (scoops < 3) {
+			alert("Ice cream is running low!");
+		} else if (scoops >= 5) {
+			alert("Eat faster, the ice cream is going to melt!");
+		}
+		scoops = scoops - 1;
+	}
+	document.write("Life without ice cream isn't the same");
+  </script>
+-->
+</body>
+</html>
+```
