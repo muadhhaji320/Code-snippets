@@ -117,3 +117,9 @@ alert("Still lots of ice cream left, come and get it.");
 var message = "Howdy" + " " + "partner";
 console.log(message);
 ```
+```javascript
+[] Opening the console
+-----------------------
+Mac = View > Developer > JavaScript Console menu.
+chrome = Inspect > Console
+```
