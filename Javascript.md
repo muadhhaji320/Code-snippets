@@ -199,8 +199,8 @@ while (count > 0) {
 </html>
 ```
 ```html
-[] howdy
------------
+[] howdy.html
+---------------
 <!doctype html>
 <html lang="en">
   <head>
@@ -216,8 +216,8 @@ console.log(message);
 </html>
 ```
 ```html
-[] icecream
-------------
+[] icecream.html
+-----------------
 <!doctype html>
 <html lang="en">
   <head>
@@ -246,7 +246,7 @@ console.log(message);
 </html>
 ```
 ```html
-[] kids
+[] kids.html
 ------------
 <!doctype html>
 <html lang="en">
