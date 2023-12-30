@@ -36,4 +36,22 @@ if (age > 14) {
     alert("Welcome " + name + "!");
 }
 ```
-
+```javascript
+[] A while statement starts with the keyword while.
+---------------------------------------------------
+var scoops = 5;
+while (scoops > 0) {
+   document.write("Another scoop!<br>");
+   scoops = scoops - 1;
+}
+document.write("Life without ice cream isn't the same");
+```
+```javascript
+[] Making decisions with JavaScript
+-----------------------------------
+if (cashInWallet > 5) {
+   order = “I’ll take the works: cheeseburger, fries and a coke”;
+} else {
+  order = “I’ll just have a glass of water”;
+}
+```
