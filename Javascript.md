@@ -89,6 +89,21 @@ alert("Still lots of ice cream left, come and get it.");
 }
 ```
 ```javascript
+[] Making decisions with JavaScript
+------------------------------------
+scoops = 5;
+while (scoops > 0) {
+	document.write("Another scoop!<br>");
+	if (scoops < 3) {
+		alert("Ice cream is running low!");
+	} else if (scoops >= 5) {
+		alert("Eat faster, the ice cream is going to melt!");
+	}
+	scoops = scoops - 1;
+}
+document.write("Life without ice cream isn't the same");
+```
+```javascript
 [] Happy Birthday program
 -------------------------
 <!doctype html>
@@ -122,4 +137,64 @@ console.log(message);
 -----------------------
 Mac = View > Developer > JavaScript Console menu.
 chrome = Inspect > Console
+```
+```javascript
+[] 99 bottles of beer.” code.js  
+------------------------------------------------------------------
+var word = "bottles";
+var count = 99;
+while (count > 0) {
+	console.log(count + " " + word + " of beer on the wall");
+	console.log(count + " " + word + " of beer,");
+	console.log("Take one down, pass it around,");
+	count = count - 1;
+	if (count > 0) {
+	console.log(count + " " + word + " of beer on the wall.");
+} else {
+	console.log("No more " + word + " of beer on the wall.");
+}
+}
+```
+```html
+[] index.htm
+-------------
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>My First JavaScript</title>
+  </head>
+  <body>
+    <script>
+       var word = "bottles";
+       var count = 99;
+       while (count > 0) {
+		console.log(count + " " + word + " of beer on the wall");
+		console.log(count + " " + word + " of beer,");
+		console.log("Take one down, pass it around,");
+		count = count - 1;
+		if (count > 0) {
+		console.log(count + " " + word + " of beer on the wall.");
+                } else {
+                    console.log("No more " + word + " of beer on the wall.");
+               }
+       }
+    </script>
+  </body>
+</html>
+```
+```html
+[] index.html
+-------------
+<!doctype html>
+<html lang="en">
+   <head>
+     <meta charset="utf-8">
+     <title>My First JavaScript</title>
+   </head>
+   <body>
+     <script src="code.js">
+     </script>
+   </body>
+</html>
 ```
