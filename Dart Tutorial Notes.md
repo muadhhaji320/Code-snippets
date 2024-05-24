@@ -2,7 +2,7 @@
 ### BASICS OF DART
 ```dart
 EXERCISE(1)
-[] print string "Hello, World!"
+● print string "Hello, World!"
 -------------------------------
 void main() {
 	print('Hello World!');
@@ -10,7 +10,7 @@ void main() {
 ```
 ```dart
 EXERCISE(2)
-[] print the area of a circle of radius = 4.
+● print the area of a circle of radius = 4.
 --------------------------------------------
 int main()
 {
