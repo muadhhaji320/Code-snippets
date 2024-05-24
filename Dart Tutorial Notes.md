@@ -43,6 +43,7 @@ return 0; }
 EXERCISE(4)
 [] program that Returns true if n is even and Returns false if n is odd.
 [link: geeksforgeeks.org] (https://www.geeksforgeeks.org/dart-comments/?ref=lbp)
+[OpenAI GitHub](https://github.com/openai)
 ------------------------------------------------------------------------
 bool checkEven(n){
 /// Returns true
