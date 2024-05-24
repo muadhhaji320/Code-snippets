@@ -2,7 +2,7 @@
 ### BASICS 
 
 ```html
-HTML Document
+●HTML Document
 --------------
 <!DOCTYPE html>
 <html>
@@ -18,7 +18,7 @@ HTML Document
 </html>
 ```
 ```html
-HTML Headings
+●HTML Headings
 -------------
 <!DOCTYPE html>
 <html>
@@ -35,7 +35,7 @@ HTML Headings
 </html>
 ```
 ```html
-HTML Paragraphs
+●HTML Paragraphs
 ---------------
 <!DOCTYPE html>
 <html>
@@ -48,7 +48,7 @@ HTML Paragraphs
 </html>
 ```
 ```html
-HTML Links
+●HTML Links
 ----------
 <!DOCTYPE html>
 <html>
@@ -63,7 +63,7 @@ HTML Links
 </html>
 ```
 ```html
-HTML Images
+●HTML Images
 -----------
 <!DOCTYPE html>
 <html>
@@ -78,7 +78,7 @@ HTML Images
 </html>
 ```
 ```html
-line break
+●line break
 ----------
 <!DOCTYPE html>
 <html>
@@ -90,7 +90,7 @@ line break
 </html>
 ```
 ```html
-The href Attribute
+●The href Attribute
 ------------------
 <!DOCTYPE html>
 <html>
@@ -106,7 +106,7 @@ The href Attribute
 </html>
 ```
 ```html
-The src Attribute
+●The src Attribute
 -----------------
 <!DOCTYPE html>
 <html>
