@@ -25,7 +25,7 @@ return 0;
 ```dart
 EXERCISE(3)
 ● printing a whole list at once.
------------------------------------------------------
+--------------------------------
 int main()
 {
 var lst = [1, 2, 3];
