@@ -24,7 +24,7 @@ return 0;
 ```
 ```dart
 EXERCISE(3)
-● print the whole list[1, 2, 3] of integers at once.
+● printing a whole list at once.
 -----------------------------------------------------
 int main()
 {
