@@ -24,7 +24,7 @@ return 0;
 ```
 ```dart
 EXERCISE(3)
-[] print the whole list[1, 2, 3] of integers at once.
+● print the whole list[1, 2, 3] of integers at once.
 -----------------------------------------------------
 int main()
 {
@@ -41,7 +41,7 @@ return 0; }
 ```
 ```dart
 EXERCISE(4)
-[] program that Returns true if n is even and Returns false if n is odd.
+● program that Returns true if n is even and Returns false if n is odd.
 [link: geeksforgeeks.org] (https://www.geeksforgeeks.org/dart-comments/?ref=lbp)
 ------------------------------------------------------------------------
 bool checkEven(n){
