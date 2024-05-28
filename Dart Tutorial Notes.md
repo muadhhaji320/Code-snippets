@@ -1,10 +1,8 @@
 # 100+ EXERCISES of DART LANGUAGE
 ### BASICS OF DART
 ```dart
-EXERCISE(1)
-● print string "Hello, World!"
--------------------------------
 void main() {
+//● print string "Hello, World!"
 	print('Hello World!');
 }
 ```
