@@ -2,7 +2,7 @@
 ### BASICS OF DART
 ```dart
 void main() {
-//● print string "Hello, World!"
+//●print string "Hello, World!"
 	print('Hello World!');
 }
 ```
@@ -10,7 +10,7 @@ void main() {
 int main()
 {
 double area = 3.14 * 4 * 4;
-/* ▪It prints the area
+/*●It prints the area
  of a circle of radius = 4 */
 print(area);
 
@@ -18,15 +18,11 @@ return 0;
 }
 ```
 ```dart
-EXERCISE(3)
-● printing a whole list at once.
---------------------------------
 int main()
 {
 var lst = [1, 2, 3];
 
-/*
-It prints
+/*●It prints
 the whole list
 at once
 */
@@ -35,17 +31,13 @@ print(lst);
 return 0; }
 ```
 ```dart
-EXERCISE(4)
-● program that Returns true if n is even and Returns false if n is odd.
-[link: geeksforgeeks.org] (https://www.geeksforgeeks.org/dart-comments/?ref=lbp)
-------------------------------------------------------------------------
 bool checkEven(n){
-/// Returns true
-/// if n is even
+/*●Returns true
+if n is even*/
 if(n%2==0)
 
 	return true;
-/// Returns false if n is odd
+//●Returns false if n is odd
 else
 
 	return false; }
