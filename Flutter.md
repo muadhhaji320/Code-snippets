@@ -1,22 +1,22 @@
 # 100+ FLUTTER CONCEPTS
 
 ```dart
-Text widget:
----------------
 import 'package:flutter/material.dart';
 
 void main() => runApp(MaterialApp(
+  //●Text widget
   home: Text('hey ninjas!!')
 ));
 ```
 ```dart
-AppBar widget:
+
 --------------
 import 'package:flutter/material.dart';
 
 void main() => runApp(MaterialApp(
   debugShowCheckedModeBanner: false,
   home: Scaffold(
+    //●AppBar widget:
     appBar: AppBar(
       title: Text('my first app'),
       centerTitle: true,
@@ -32,24 +32,21 @@ void main() => runApp(MaterialApp(
 ));
 ```
 ```dart
-child: Properties of Container widget
--------------------------------------
-Container(  
+Container(
+    //●child: Properties of Container widget
     child: Text("Hello! I am in the container widget", style: TextStyle(fontSize: 25)),  
 )  
 ```
 ```dart
-color: Properties of Container widget
--------------------------------------
-Container(  
+Container(
+    //●color: Properties of Container widget
     color: Colors.green,   
     child: Text("Hello! I am in the container widget", style: TextStyle(fontSize: 25)),  
 ) 
 ```
 ```dart
-height and width: Properties of Container widget
-------------------------------------------------
-Container(  
+Container(
+    //●height and width: Properties of Container widget
     width: 200.0,  
     height: 100.0,  
     color: Colors.green,   
@@ -57,13 +54,11 @@ Container(
 )  
 ```
 ```dart
-margin: Properties of Container widget
---------------------------------------
 Container(  
     width: 200.0,  
     height: 100.0,  
     color: Colors.green,   
-    margin: EdgeInsets.all(20),  
+    margin: EdgeInsets.all(20),  //●margin: Properties of Container widget
     child: Text("Hello! I am in the container widget", style: TextStyle(fontSize: 25)),  
 )
 ```
