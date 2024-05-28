@@ -135,7 +135,7 @@
 <h2>The alt Attribute</h2>
 <p>The alt attribute should reflect the image content, so users who cannot see the image get an understanding of what the image contains:</p>
 
-//●The alt Attribute
+<!--●The alt Attribute->
 <img src="img_girl.jpg" alt="Girl with a jacket" width="500" height="600">
 
 </body>
@@ -146,7 +146,7 @@
 <html>
 <body>
 
-//●See what happens if we try to display an image that does not exist:
+<!--●See what happens if we try to display an image that does not exist:->
 <img src="img_typo.jpg" alt="Girl with a jacket">
 
 <p>If we try to display an image that does not exist, the value of the alt attribute will be displayed instead. </p>
@@ -200,8 +200,6 @@
 </html>
 ```
 ```html
-Single or Double Quotes?
-------------------------
 <!DOCTYPE html>
 <html>
 <body>
@@ -210,6 +208,7 @@ Single or Double Quotes?
 <p>In some situations, when the attribute value itself contains double quotes, it is necessary to use single quotes:</p>
 <p>Move your mouse over the paragraphs below to see the effect:</p>
 
+<!--Single or Double Quotes?->
 <p title='John "ShotGun" Nelson'>John with double quotes</p>
 <p title="John 'ShotGun' Nelson">John with single quotes</p>
 
@@ -217,13 +216,11 @@ Single or Double Quotes?
 </html>
 ```
 ```html
-CSS font-size property
-----------------------
 <!DOCTYPE html>
 <html>
 <body>
 
-<h1 style="font-size:60px;">Heading 1</h1>
+<h1 style="font-size:60px;">Heading 1</h1> <!--CSS font-size property->
 
 <p>You can change the size of a heading with the style attribute, using the font-size property.</p>
 
@@ -231,8 +228,6 @@ CSS font-size property
 </html>
 ```
 ```html
-HTML Horizontal Rules
----------------------
 <!DOCTYPE html>
 <html>
 <body>
@@ -243,7 +238,7 @@ HTML Horizontal Rules
 
 <h2>This is heading 2</h2>
 <p>This is some other text.</p>
-<hr>
+<hr> <!--HTML Horizontal Rules->
 
 <h2>This is heading 2</h2>
 <p>This is some other text.</p>
@@ -252,15 +247,13 @@ HTML Horizontal Rules
 </html>
 ```
 ```html
-HTML <pre> Element
-------------------
 <!DOCTYPE html>
 <html>
 <body>
 
 <p>The pre tag preserves both spaces and line breaks:</p>
 
-<pre>
+<pre> <!--HTML <pre> Element->
    My Bonnie lies over the ocean.
 
    My Bonnie lies over the sea.
@@ -274,14 +267,13 @@ HTML <pre> Element
 </html>
 ```
 ```html
-HTML Styles
-------------
 <!DOCTYPE html>
 <html>
 <body>
 
 <p>I am normal</p>
-<p style="color:red;">I am red</p>
+<!--HTML Styles->
+<p style="color:red;">I am red</p> 
 <p style="color:blue;">I am blue</p>
 <p style="font-size:50px;">I am big</p>
 
@@ -289,10 +281,10 @@ HTML Styles
 </html>
 ```
 ```html
-Set the background color for a page to powderblue:
---------------------------------------------------
 <!DOCTYPE html>
 <html>
+
+<!--Set the background color for a page to powderblue:->
 <body style="background-color:powderblue;">
 
 <h1>This is a heading</h1>
@@ -302,12 +294,11 @@ Set the background color for a page to powderblue:
 </html>
 ```
 ```html
-Set background color for two different elements:
-------------------------------------------------
 <!DOCTYPE html>
 <html>
 <body>
 
+<!--Set background color for two different elements:->
 <h1 style="background-color:powderblue;">This is a heading</h1>
 <p style="background-color:tomato;">This is a paragraph.</p>
 
@@ -315,12 +306,11 @@ Set background color for two different elements:
 </html>
 ```
 ```html
-Set Text Color for two different elements
-------------------------------------------
 <!DOCTYPE html>
 <html>
 <body>
 
+<!--Set Text Color for two different elements->
 <h1 style="color:blue;">This is a heading</h1>
 <p style="color:red;">This is a paragraph.</p>
 
@@ -328,12 +318,11 @@ Set Text Color for two different elements
 </html>
 ```
 ```html
-Fonts
---------
 <!DOCTYPE html>
 <html>
 <body>
 
+<!--Fonts->
 <h1 style="font-family:verdana;">This is a heading</h1>
 <p style="font-family:courier;">This is a paragraph.</p>
 
@@ -341,12 +330,11 @@ Fonts
 </html>
 ```
 ```html
-Text Size
------------
 <!DOCTYPE html>
 <html>
 <body>
 
+<!--Text Size->
 <h1 style="font-size:300%;">This is a heading</h1>
 <p style="font-size:160%;">This is a paragraph.</p>
 
@@ -354,12 +342,11 @@ Text Size
 </html>
 ```
 ```html
-Text Alignment
----------------
 <!DOCTYPE html>
 <html>
 <body>
 
+<!--Text Alignment->
 <h1 style="text-align:center;">Centered Heading</h1>
 <p style="text-align:center;">Centered paragraph.</p>
 
@@ -367,12 +354,11 @@ Text Alignment
 </html>
 ```
 ```html
-HTML Text Formatting
---------------------
 <!DOCTYPE html>
 <html>
 <body>
 
+<!--HTML Text Formatting->
 <p><b>This text is bold</b></p>
 <p><i>This text is italic</i></p>
 <p>This is<sub> subscript</sub> and <sup>superscript</sup></p>
@@ -381,21 +367,19 @@ HTML Text Formatting
 </html>
 ```
 ```html
-HTML <b> for bold text.
-------------------------
 <!DOCTYPE html>
 <html>
 <body>
 
 <p>This text is normal.</p>
 
-<p><b>This text is bold.</b></p>
+<p><b>This text is bold.</b></p> <!--.●HTML <b> for bold text.->
 
 </body>
 </html>
 ```
 ```html
-HTML <strong> element
+
 ----------------------
 <!DOCTYPE html>
 <html>
@@ -403,7 +387,7 @@ HTML <strong> element
 
 <p>This text is normal.</p>
 
-<p><strong>This text is important!</strong></p>
+<p><strong>This text is important!</strong></p> <!--●HTML <strong> element->
 
 </body>
 </html>
