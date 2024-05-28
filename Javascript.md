@@ -1,16 +1,14 @@
 # 100+ EXERCISES of Javascript LANGUAGE
 ### BASICS OF Javascript
 ```Javascript
-EXERCISE(1)
-[] count five seconds of time? Hint:
-1000 milliseconds = 1 second.
--------------------------------
 <!doctype html>
 <html lang="en">
    <head>
         <meta charset="utf-8">
             <title>Just a Generic Page</title>
         <script>
+           /*●count five seconds of time? Hint:
+             1000 milliseconds = 1 second.*/
             setTimeout(wakeUpUser, 5000);
             function wakeUpUser() {
             alert("Are you going to stare at this boring page forever?");
@@ -26,8 +24,7 @@ EXERCISE(1)
 </html>
 ```
 ```javascript
-[] How to make a statement
-------------------------------
+//●statements
 var age = 25;
 var name = "Owen";
 if (age > 14) {
@@ -37,9 +34,8 @@ if (age > 14) {
 }
 ```
 ```javascript
-[] A while statement starts with the keyword while.
----------------------------------------------------
 var scoops = 5;
+//●A while statement starts with the keyword while.
 while (scoops > 0) {
    document.write("Another scoop!<br>");
    scoops = scoops - 1;
@@ -47,8 +43,7 @@ while (scoops > 0) {
 document.write("Life without ice cream isn't the same");
 ```
 ```javascript
-[] Making decisions with JavaScript
------------------------------------
+//●Making decisions with JavaScript
 if (cashInWallet > 5) {
    order = “I’ll take the works: cheeseburger, fries and a coke”;
 } else {
@@ -56,15 +51,14 @@ if (cashInWallet > 5) {
 }
 ```
 ```javascript
-[] The if statement executes its code block only if a conditional test is true.
--------------------------------------------------------------------------------
+/*●if statement executes its code block only
+   if a conditional test is true.*/
 if (scoops < 3) {
    alert("Ice cream is running low!");
 }
 ```
 ```javascript
-[] We can have one test, and then another test with if/else if
---------------------------------------------------------------
+//●if/else if
 if (scoops >= 5) {
    alert("Eat faster, the ice cream is going to melt!");
 } else if (scoops < 3) {
@@ -72,8 +66,7 @@ if (scoops >= 5) {
 }
 ```
 ```javascript
-[] when you need t o make LOTS of decisions
--------------------------------------------
+//●when you need t o make LOTS of decisions
 if (scoops >= 5) {
 alert("Eat faster, the ice cream is going to melt!");
 } else if (scoops == 3) {
@@ -89,8 +82,7 @@ alert("Still lots of ice cream left, come and get it.");
 }
 ```
 ```javascript
-[] Making decisions with JavaScript
-------------------------------------
+//●Making decisions with JavaScript
 scoops = 5;
 while (scoops > 0) {
 	document.write("Another scoop!<br>");
@@ -104,8 +96,7 @@ while (scoops > 0) {
 document.write("Life without ice cream isn't the same");
 ```
 ```javascript
-[] Happy Birthday program
--------------------------
+//●Happy Birthday program
 <!doctype html>
 <html lang="en">
   <head>
@@ -127,21 +118,17 @@ document.write("Life without ice cream isn't the same");
 </html>
 ```
 ```javascript
-[] A closer look at console.log
----------------------------------
+//●console.log
 var message = "Howdy" + " " + "partner";
 console.log(message);
 ```
 ```javascript
-[] Opening the console
------------------------
-Mac = View > Developer > JavaScript Console menu.
+//●Opening the console
 chrome = Inspect > Console
 ```
 ```javascript
-[] 99 bottles of beer.” code.js  
-------------------------------------------------------------------
 var word = "bottles";
+//●99 bottles of beer.” code.js  
 var count = 99;
 while (count > 0) {
 	console.log(count + " " + word + " of beer on the wall");
@@ -156,8 +143,7 @@ while (count > 0) {
 }
 ```
 ```html
-[] index.htm
--------------
+//●index.htm
 <!doctype html>
 <html lang="en">
   <head>
@@ -184,8 +170,7 @@ while (count > 0) {
 </html>
 ```
 ```html
-[] index.html
--------------
+//●index.html
 <!doctype html>
 <html lang="en">
    <head>
@@ -199,8 +184,7 @@ while (count > 0) {
 </html>
 ```
 ```html
-[] howdy.html
----------------
+//●howdy.html
 <!doctype html>
 <html lang="en">
   <head>
@@ -216,8 +200,7 @@ console.log(message);
 </html>
 ```
 ```html
-[] icecream.html
------------------
+//●icecream.html
 <!doctype html>
 <html lang="en">
   <head>
@@ -246,8 +229,7 @@ console.log(message);
 </html>
 ```
 ```html
-[] kids.html
-------------
+//●kids.html
 <!doctype html>
 <html lang="en">
 <head>
