@@ -78,4 +78,11 @@ john
 # including their username, terminal, login time, and more
 $ who
 john     tty1         2024-05-31 10:00 (:0)
+# Updating the package lists on your system
+$ sudo apt update
+# Upgrading installed packages
+$ sudo apt upgrade
+# To automatically confirm the upgrade without further interaction
+$ sudo apt upgrade -y
+
 ```
