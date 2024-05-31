@@ -71,4 +71,11 @@ uname -a
 # how long the system has been running,
 # and the number of users logged in.
 uptime
+# display the username of the current user who is logged into the system.
+$ whoami
+john
+# displays information about currently logged-in users,
+# including their username, terminal, login time, and more
+$ who
+john     tty1         2024-05-31 10:00 (:0)
 ```
