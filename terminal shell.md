@@ -67,4 +67,8 @@ date
 
 # Display system information
 uname -a
+# Display the system's uptime, including current time,
+# how long the system has been running,
+# and the number of users logged in.
+uptime
 ```
