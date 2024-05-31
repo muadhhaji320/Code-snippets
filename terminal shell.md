@@ -112,6 +112,9 @@ $ sudo apt upgrade -y
 # Using Google Chrome
   google-chrome
 
+# If you want to use the same terminal that you run Chrome in for other commands
+ google-chrome &
+
 #
 
 
