@@ -91,4 +91,23 @@ $ sudo apt upgrade
 # To automatically confirm the upgrade without further interaction
 $ sudo apt upgrade -y
 
+# Shutting down from inside the VM with the terminal
+  poweroff
+
+# download latest Google Chrome .deb package in terminal
+  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+
+# paste your text input into your terminal
+  Ctrl + Shift + V
+
+# copy any highlighted text from your terminal
+  Ctrl + Shift + C
+
+# in your terminal to install Google Chrome .deb package
+  sudo apt install ./google-chrome-stable_current_amd64.deb
+
+
+ 
+
+
 ```
