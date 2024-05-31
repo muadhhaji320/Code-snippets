@@ -106,6 +106,16 @@ $ sudo apt upgrade -y
 # in your terminal to install Google Chrome .deb package
   sudo apt install ./google-chrome-stable_current_amd64.deb
 
+# Delete the installer file
+  rm google-chrome-stable_current_amd64.deb
+
+# Using Google Chrome
+  google-chrome
+
+#
+
+
+
 
  
 
