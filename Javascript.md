@@ -24,6 +24,41 @@
 </html>
 ```
 ```javascript
+// This program displays a greeting message based on the current time
+// Create a new Date object representing the current date and time
+var today = new Date();
+
+// Get the current hour from the Date object
+var hourNow = today.getHours();
+
+// Declare a variable to hold the greeting message
+var greeting;
+
+// Check if the current hour is greater than 18 (6 PM)
+if (hourNow > 18) {
+  // If true, set the greeting to "Good evening!"
+  greeting = 'Good evening!';
+}
+// Check if the current hour is greater than 12 (noon)
+else if (hourNow > 12) {
+  // If true, set the greeting to "Good afternoon!"
+  greeting = 'Good afternoon!';
+}
+// Check if the current hour is greater than 0 (midnight)
+else if (hourNow > 0) {
+  // If true, set the greeting to "Good morning!"
+  greeting = 'Good morning!';
+}
+// If none of the above conditions are true
+else {
+  // Set the greeting to "Welcome!"
+  greeting = 'Welcome!';
+}
+
+// Write the greeting message to the document
+document.write('<h3>' + greeting + '</h3>');
+```
+```javascript
 //●statements
 var age = 25;
 var name = "Owen";
