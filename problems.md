@@ -1,4 +1,4 @@
-## There is no such thing as a good programmer, only <mark style="background-color: red;">**a good problem solver**</mark>.
+## There is no such thing as a good programmer, only <mark style="background-color: blue;">**a good problem solver**</mark>.
 <u>**Greater number:**</u> find greater number between two numbers
 ```javascript
 // Prompt the user for input
