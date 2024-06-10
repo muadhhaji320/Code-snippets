@@ -6,7 +6,7 @@ The python file name will be saved in the environment variable $PYFILE
 python3 ./$PYFILE
 ```
 <u>**Executable:**</u> Make the shell script executable:
-```shell
+```bash
 chmod +x script.sh
 ```
 <u>**Greater number:**</u> find greater number between two numbers
