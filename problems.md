@@ -26,6 +26,7 @@ else:
 
 <u>**Logging:**</u> Logging a message to the console
 ```javascript
+// Logging a message to the console
 console.log("Hello, world!");
 ```
 
