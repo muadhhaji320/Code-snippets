@@ -38,5 +38,45 @@ console.log(5 - 3); // Subtraction: 2
 console.log(4 * 3); // Multiplication: 12
 console.log(10 / 2); // Division: 5
 ```
+<u>**Variables and data types:**</u> Variables and data types
+```javascript
+// Variables and data types
+let name = "John";
+const age = 25;
+console.log("Name:", name);
+console.log("Age:", age);
+```
 
+<u>**Conditional statements:**</u> Conditional statements
+```javascript
+// Conditional statements
+let x = 10;
+if (x > 5) {
+  console.log("x is greater than 5");
+} else {
+  console.log("x is less than or equal to 5");
+}
+```
+// Loops
+for (let i = 0; i < 5; i++) {
+  console.log("Iteration:", i);
+}
+
+// Functions
+function greet(name) {
+  console.log("Hello, " + name + "!");
+}
+greet("Alice");
+
+// Arrays
+let fruits = ["apple", "banana", "orange"];
+console.log(fruits[0]); // Accessing array element
+
+// Objects
+let person = {
+  name: "John",
+  age: 30,
+  profession: "Developer"
+};
+console.log(person.name); // Accessing object property
 
