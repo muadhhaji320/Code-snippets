@@ -1,4 +1,4 @@
- ### There is no such thing as a good programmer, only **a good problem solver**.
+ ## There is no such thing as a good programmer, only **a good problem solver**.
 <u>**Greater number:**</u> find greater number between two numbers
 ```javascript
 // Prompt the user for input
