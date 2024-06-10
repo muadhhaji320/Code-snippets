@@ -15,6 +15,11 @@ if (first_number > second_number) {
 }
 ```
 
+<u>**alert dialog box:**</u> displays an alert dialog box with a message:
+```javascript
+// displays an alert dialog box with a message:
+alert("Hello, World!");
+```
 <u>**Logging:**</u> Logging a message to the console
 ```javascript
 // Logging a message to the console
