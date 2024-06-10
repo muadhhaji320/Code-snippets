@@ -30,4 +30,13 @@ else:
 console.log("Hello, world!");
 ```
 
+<u>**arithmetic operations:**</u> Performing basic arithmetic operations
+```javascript
+// Performing basic arithmetic operations
+console.log(2 + 2); // Addition: 4
+console.log(5 - 3); // Subtraction: 2
+console.log(4 * 3); // Multiplication: 12
+console.log(10 / 2); // Division: 5
+```
+
 
