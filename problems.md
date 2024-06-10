@@ -23,3 +23,10 @@ elif first_number < second_number:
 else:
     print("Both numbers are equal")
 ```
+
+<u>**Logging:**</u> Logging a message to the console
+```javascript
+console.log("Hello, world!");
+```
+
+
