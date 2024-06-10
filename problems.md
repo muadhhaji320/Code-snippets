@@ -3,9 +3,12 @@
 The python file name will be saved in the environment variable $PYFILE
 ```python
 #!/bin/bash
-python3 $PYFILE
+python3 ./$PYFILE
 ```
-
+<u>**Executable:**</u> Make the shell script executable:
+```shell
+chmod +x script.sh
+```
 <u>**Greater number:**</u> find greater number between two numbers
 ```python
 # Prompt the user for input
