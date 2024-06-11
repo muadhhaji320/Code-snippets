@@ -1,6 +1,7 @@
 ## There is no such thing as a good programmer, only <mark>**a good problem solver**</mark>.
 
 ```javascript
+// Greater number: find greater number between two numbers
 // Prompt:Prompt the user for input
 let first_number = parseInt(prompt("Enter the first number: "));
 let second_number = parseInt(prompt("Enter the second number: "));
