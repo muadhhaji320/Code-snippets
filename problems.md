@@ -1,11 +1,11 @@
 ## There is no such thing as a good programmer, only <mark>**a good problem solver**</mark>.
-<u>**Greater number:**</u> find greater number between two numbers
+
 ```javascript
-// Prompt the user for input
+// Prompt:Prompt the user for input
 let first_number = parseInt(prompt("Enter the first number: "));
 let second_number = parseInt(prompt("Enter the second number: "));
 
-// Compare the numbers and display the appropriate message
+// Compare: Compare the numbers and display the appropriate message
 if (first_number > second_number) {
     console.log(`${first_number} is greater than ${second_number}`);
 } else if (first_number < second_number) {
