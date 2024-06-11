@@ -67,7 +67,7 @@ greet("Alice");
 ```javascript
 // Arrays: Arrays
 let fruits = ["apple", "banana", "orange"];
-console.log(fruits[0]); // Accessing array element
+console.log(fruits[0]); // Accessing: Accessing array element
 ```
 ```javascript
 // Objects: Objects
@@ -76,5 +76,5 @@ let person = {
   age: 30,
   profession: "Developer"
 };
-console.log(person.name); // Accessing object property
+console.log(person.name); // Accessing: Accessing object property
 ```
