@@ -52,6 +52,21 @@ if (first_number > second_number) {
 </body>
 </html>
 ```
+```html
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>What Can JavaScript Do?</h2>
+
+<p id="demo">JavaScript can change the style of an HTML element.</p>
+
+<!--Changing the style of an HTML element, is a variant of changing an HTML attribute:-->
+<button type="button" onclick="document.getElementById('demo').style.fontSize='35px'">Click Me!</button>
+
+</body>
+</html> 
+```
 ```javascript
 // alert: displays an alert dialog box with a message:
 alert("Hello, World!");
