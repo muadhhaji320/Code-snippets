@@ -15,6 +15,22 @@ if (first_number > second_number) {
     console.log("Both numbers are equal");
 }
 ```
+```html
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>What Can JavaScript Do?</h2>
+
+<p id="demo">JavaScript can change HTML content.</p>
+
+
+<!-- "finds" an HTML element (with id="demo"), and changes the element content (innerHTML) to "Hello JavaScript":-->
+<button type="button" onclick='document.getElementById("demo").innerHTML = "Hello JavaScript!"'>Click Me!</button>
+
+</body>
+</html>
+```
 
 ```javascript
 // alert: displays an alert dialog box with a message:
