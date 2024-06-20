@@ -7,7 +7,7 @@
         <meta charset="utf-8">
             <title>Just a Generic Page</title>
         <script>
-           /** count five seconds of time? Hint:
+           /* count five seconds of time? Hint:
              1000 milliseconds = 1 second.*/
             setTimeout(wakeUpUser, 5000);
             function wakeUpUser() {
