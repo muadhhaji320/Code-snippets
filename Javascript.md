@@ -7,8 +7,8 @@
         <meta charset="utf-8">
             <title>Just a Generic Page</title>
         <script>
-           <!--count five seconds of time? Hint:
-             1000 milliseconds = 1 second.-->
+           /** count five seconds of time? Hint:
+             1000 milliseconds = 1 second.*/
             setTimeout(wakeUpUser, 5000);
             function wakeUpUser() {
             alert("Are you going to stare at this boring page forever?");
