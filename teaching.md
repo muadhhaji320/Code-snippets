@@ -7,6 +7,10 @@ var lst = [1, 2, 3];
 int n = 43;
 int number1 = 10;
 int number2 = 5;
+String name = "John";
+int age = 25;
+bool isStudent = true;
+double height = 175.5;
 
 functions:
 -----------
@@ -35,6 +39,10 @@ print(checkEven(n));
 print('The first number is greater than the second number.');
 print('The first number is less than the second number.');
 print('Both numbers are equal.');
+print('Name: $name');
+print('Age: $age');
+print('Is Student: $isStudent');
+print('Height: $height');
 
 return keyword:
 ---------------
