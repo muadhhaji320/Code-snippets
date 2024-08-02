@@ -15,7 +15,6 @@ int main() {
   print('Hello World!');
   print(area);
   print(lst);
-
   print(checkEven(n));
 
   return 0;
