@@ -1,10 +1,14 @@
 
 
 ```shell
+```
 # Change directory to a specified path
+```
 cd /path/to/directory
 
+```
 # List files and directories in the current directory
+```
 ls
 
 # Create a new directory
