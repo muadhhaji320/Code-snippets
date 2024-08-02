@@ -1,6 +1,9 @@
 # 100+ EXERCISES of Javascript LANGUAGE
 ### BASICS OF Javascript
 ```Javascript
+"""
+  count five seconds of time? Hint: 1000 milliseconds = 1 second.
+"""
 <!doctype html>
 <html lang="en">
    <head>
